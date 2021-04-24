@@ -1,4 +1,4 @@
-# gocredit
+# GoCredit
 Trade credit system package written in Go.
 
 MIT License.
